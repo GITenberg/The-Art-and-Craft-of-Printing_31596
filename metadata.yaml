@@ -1,0 +1,37 @@
+_repo: The-Art-and-Craft-of-Printing_31596
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morris, William
+    alias: Morris, William M.
+    birthdate: 1834
+    deathdate: 1896
+    gutenberg_agent_id: '107'
+    url: http://www.gutenberg.org/2009/agents/107
+    wikipedia: http://en.wikipedia.org/wiki/William_Morris
+description: ''
+gutenberg_issued: '2010-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31596'
+  lccn: 02008239
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kelmscott Press'
+- !lcc 'Z'
+- !lcsh 'Printing -- Great Britain -- History'
+- !lcsh 'Hammersmith (London, England) -- Imprints'
+tableOfContents: 'Note by William Morris on his aims in founding the Kelmscott press
+  -- The ideal book: an address by William Morris, delivered before the Bibliographical
+  society of London, MDCCCXCIII -- An essay on printing, by William Morris and Emery
+  Walker, from Arts and Crafts, essays by members of the Arts and Crafts Exhibition
+  Society -- Passages given to show the Troy & Chaucer types, and four initials that
+  were designed for the Froissart, but never used.'
+title: The Art and Craft of Printing
+url: http://www.gutenberg.org/ebooks/31596
